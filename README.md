@@ -1,5 +1,5 @@
 # MLopsXFlow
 
-![](scr1)
+![](https://github.com/Drimkore/MLopsXFlow/blob/main/scr1.png)
 
-![](scr2)
+![](https://github.com/Drimkore/MLopsXFlow/blob/main/scr2.png)
