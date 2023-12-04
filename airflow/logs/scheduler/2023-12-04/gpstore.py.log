@@ -618,3 +618,325 @@ SyntaxError: invalid non-printable character U+00A0
 [2023-12-04T22:46:15.230+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:46:15.230+0500] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-12-04T22:46:15.237+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:46:15.237+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
 [2023-12-04T22:46:15.720+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.513 seconds
+[2023-12-04T22:46:45.942+0500] {processor.py:157} INFO - Started process (PID=3848) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:46:45.942+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:46:45.943+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:46:45.943+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:46:45.950+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:46:45.964+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:46:45.964+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:46:45.971+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:46:45.971+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:46:45.989+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:47:16.458+0500] {processor.py:157} INFO - Started process (PID=3867) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:16.458+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:47:16.459+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:16.459+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:16.467+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:16.480+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:16.480+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:47:16.487+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:16.487+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:47:16.505+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:47:46.957+0500] {processor.py:157} INFO - Started process (PID=3895) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:46.958+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:47:46.958+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:46.958+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:46.966+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:47:46.979+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:46.979+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:47:46.985+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:47:46.985+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:47:47.004+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:48:17.357+0500] {processor.py:157} INFO - Started process (PID=3906) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:17.357+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:48:17.358+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:17.358+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:17.365+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:17.379+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:17.379+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:48:17.386+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:17.385+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:48:17.403+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:48:47.729+0500] {processor.py:157} INFO - Started process (PID=3921) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:47.729+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:48:47.730+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:47.729+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:47.738+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:48:47.751+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:47.751+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:48:47.757+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:48:47.757+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:48:47.778+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T22:49:18.268+0500] {processor.py:157} INFO - Started process (PID=3926) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:18.269+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:49:18.270+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:18.269+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:18.277+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:18.291+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:18.291+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:49:18.297+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:18.297+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:49:18.313+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T22:49:48.464+0500] {processor.py:157} INFO - Started process (PID=3930) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:48.465+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:49:48.465+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:48.465+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:48.472+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:49:48.486+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:48.486+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:49:48.492+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:49:48.492+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:49:48.509+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T22:50:19.335+0500] {processor.py:157} INFO - Started process (PID=3941) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:19.336+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:50:19.336+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:19.336+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:19.344+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:19.358+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:19.358+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:50:19.364+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:19.364+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:50:19.382+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:50:49.828+0500] {processor.py:157} INFO - Started process (PID=3949) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:49.829+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:50:49.829+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:49.829+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:49.837+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:50:49.850+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:49.850+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:50:49.856+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:50:49.856+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:50:49.876+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.050 seconds
+[2023-12-04T22:51:20.673+0500] {processor.py:157} INFO - Started process (PID=3958) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:20.674+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:51:20.674+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:20.674+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:20.682+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:20.697+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:20.697+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:51:20.703+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:20.703+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:51:20.735+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.065 seconds
+[2023-12-04T22:51:50.905+0500] {processor.py:157} INFO - Started process (PID=3964) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:50.905+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:51:50.906+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:50.906+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:50.914+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:51:50.927+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:50.927+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:51:50.934+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:51:50.934+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:51:50.952+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:52:21.373+0500] {processor.py:157} INFO - Started process (PID=3971) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:21.373+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:52:21.374+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:21.374+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:21.382+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:21.395+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:21.395+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:52:21.401+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:21.401+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:52:21.418+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T22:52:51.842+0500] {processor.py:157} INFO - Started process (PID=3975) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:51.842+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:52:51.843+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:51.842+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:51.850+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:52:51.863+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:51.863+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:52:51.869+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:52:51.869+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:52:51.886+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.046 seconds
+[2023-12-04T22:53:22.548+0500] {processor.py:157} INFO - Started process (PID=3984) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:22.548+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:53:22.549+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:22.549+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:22.557+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:22.571+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:22.570+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:53:22.577+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:22.577+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:53:22.596+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T22:53:53.053+0500] {processor.py:157} INFO - Started process (PID=3994) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:53.053+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:53:53.054+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:53.054+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:53.062+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:53:53.077+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:53.077+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:53:53.084+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:53:53.084+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:53:53.102+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.052 seconds
+[2023-12-04T22:54:23.472+0500] {processor.py:157} INFO - Started process (PID=4035) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:23.472+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:54:23.473+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:23.473+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:23.482+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:23.497+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:23.496+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:54:23.503+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:23.503+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:54:23.521+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T22:54:54.546+0500] {processor.py:157} INFO - Started process (PID=4096) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:54.547+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:54:54.547+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:54.547+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:54.557+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:54:54.575+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:54.575+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:54:54.581+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:54:54.581+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:54:54.597+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.053 seconds
+[2023-12-04T22:55:25.429+0500] {processor.py:157} INFO - Started process (PID=4162) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:25.429+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:55:25.430+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:25.429+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:25.438+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:25.451+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:25.451+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:55:25.459+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:25.459+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:55:25.476+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:55:55.872+0500] {processor.py:157} INFO - Started process (PID=4249) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:55.872+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:55:55.873+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:55.872+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:55.880+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:55:55.895+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:55.895+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:55:55.902+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:55:55.902+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:55:55.918+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T22:56:13.260+0500] {processor.py:157} INFO - Started process (PID=4284) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:13.260+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:56:13.261+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:13.261+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:13.269+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:13.381+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:13.380+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:56:13.385+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:13.385+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:56:13.405+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.148 seconds
+[2023-12-04T22:56:43.906+0500] {processor.py:157} INFO - Started process (PID=4296) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:43.907+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:56:43.908+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:43.907+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:43.916+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:56:43.932+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:43.932+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:56:43.939+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:56:43.939+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:56:43.957+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.053 seconds
+[2023-12-04T22:57:14.015+0500] {processor.py:157} INFO - Started process (PID=4310) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:14.016+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:57:14.017+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:14.016+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:14.025+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:14.043+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:14.043+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:57:14.058+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:14.058+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:57:14.415+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.402 seconds
+[2023-12-04T22:57:44.620+0500] {processor.py:157} INFO - Started process (PID=4318) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:44.621+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:57:44.621+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:44.621+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:44.629+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:57:44.642+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:44.642+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:57:44.648+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:57:44.648+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:57:44.665+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.046 seconds
+[2023-12-04T22:58:15.214+0500] {processor.py:157} INFO - Started process (PID=4323) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:15.215+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:58:15.215+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:15.215+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:15.223+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:15.240+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:15.239+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:58:15.247+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:15.247+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:58:15.268+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.056 seconds
+[2023-12-04T22:58:45.567+0500] {processor.py:157} INFO - Started process (PID=4328) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:45.568+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:58:45.569+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:45.568+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:45.577+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:58:45.591+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:45.591+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:58:45.597+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:58:45.597+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:58:45.616+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T22:59:15.731+0500] {processor.py:157} INFO - Started process (PID=4342) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:15.732+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:59:15.732+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:15.732+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:15.740+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:15.754+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:15.754+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:59:15.760+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:15.760+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:59:15.776+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.048 seconds
+[2023-12-04T22:59:46.397+0500] {processor.py:157} INFO - Started process (PID=4365) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:46.398+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T22:59:46.398+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:46.398+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:46.406+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T22:59:46.421+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:46.421+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T22:59:46.428+0500] {logging_mixin.py:154} INFO - [2023-12-04T22:59:46.427+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T22:59:46.445+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T23:00:17.101+0500] {processor.py:157} INFO - Started process (PID=4418) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:17.101+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:00:17.102+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:17.102+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:17.110+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:17.125+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:17.125+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:00:17.132+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:17.131+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:00:17.150+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.051 seconds
+[2023-12-04T23:00:47.817+0500] {processor.py:157} INFO - Started process (PID=4470) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:47.818+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:00:47.818+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:47.818+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:47.826+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:00:47.841+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:47.841+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:00:47.847+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:00:47.847+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:00:47.865+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.050 seconds
+[2023-12-04T23:01:18.303+0500] {processor.py:157} INFO - Started process (PID=4505) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:18.303+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:01:18.304+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:18.303+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:18.311+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:18.325+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:18.325+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:01:18.330+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:18.330+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:01:18.347+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T23:01:48.596+0500] {processor.py:157} INFO - Started process (PID=4509) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:48.596+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:01:48.597+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:48.596+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:48.603+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:01:48.616+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:48.616+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:01:48.621+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:01:48.621+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:01:48.639+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.046 seconds
+[2023-12-04T23:02:19.437+0500] {processor.py:157} INFO - Started process (PID=4521) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:19.438+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:02:19.438+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:19.438+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:19.446+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:19.460+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:19.460+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:02:19.467+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:19.467+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:02:19.484+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.049 seconds
+[2023-12-04T23:02:49.948+0500] {processor.py:157} INFO - Started process (PID=4554) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:49.949+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:02:49.949+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:49.949+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:49.958+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:49.972+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:49.972+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:02:49.979+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:49.979+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:02:50.005+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.060 seconds
+[2023-12-04T23:02:53.007+0500] {processor.py:157} INFO - Started process (PID=4557) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:53.008+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:02:53.008+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:53.008+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:53.017+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:02:53.115+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:53.115+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:02:53.121+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:02:53.121+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:02:53.139+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.134 seconds
+[2023-12-04T23:03:25.528+0500] {processor.py:157} INFO - Started process (PID=4596) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:25.529+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:03:25.529+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:25.529+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:25.544+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:25.570+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:25.570+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:03:25.577+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:25.577+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:03:25.594+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.068 seconds
+[2023-12-04T23:03:55.780+0500] {processor.py:157} INFO - Started process (PID=4635) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:55.780+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:03:55.781+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:55.781+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:55.796+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:03:55.819+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:55.819+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:03:55.826+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:03:55.826+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:03:55.845+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.068 seconds
+[2023-12-04T23:04:26.035+0500] {processor.py:157} INFO - Started process (PID=4646) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:26.036+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:04:26.037+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:26.036+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:26.044+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:26.057+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:26.057+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:04:26.063+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:26.063+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:04:26.080+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T23:04:56.942+0500] {processor.py:157} INFO - Started process (PID=4658) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:56.942+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:04:56.943+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:56.942+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:56.950+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:04:56.963+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:56.963+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:04:56.969+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:04:56.969+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:04:56.984+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.044 seconds
+[2023-12-04T23:05:27.559+0500] {processor.py:157} INFO - Started process (PID=4704) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:27.560+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:05:27.561+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:27.561+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:27.568+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:27.580+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:27.580+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:05:27.586+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:27.586+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:05:27.602+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.045 seconds
+[2023-12-04T23:05:57.810+0500] {processor.py:157} INFO - Started process (PID=4756) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:57.811+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:05:57.811+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:57.811+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:57.819+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:05:57.832+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:57.832+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:05:57.838+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:05:57.838+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:05:57.855+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
+[2023-12-04T23:06:27.947+0500] {processor.py:157} INFO - Started process (PID=4795) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:27.947+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:06:27.947+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:27.947+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:27.955+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:27.968+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:27.967+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:06:27.973+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:27.973+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:06:27.991+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.046 seconds
+[2023-12-04T23:06:45.274+0500] {processor.py:157} INFO - Started process (PID=4801) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:45.274+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:06:45.275+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:45.274+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:45.282+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:06:45.379+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:45.379+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:06:45.384+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:06:45.384+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:06:45.404+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.133 seconds
+[2023-12-04T23:07:25.489+0500] {processor.py:157} INFO - Started process (PID=4889) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:25.490+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:07:25.490+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:25.490+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:25.497+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:25.514+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:25.514+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:07:25.521+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:25.521+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:07:25.536+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.050 seconds
+[2023-12-04T23:07:56.120+0500] {processor.py:157} INFO - Started process (PID=5036) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:56.120+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:07:56.121+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:56.120+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:56.128+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:07:56.141+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:56.141+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:07:56.147+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:07:56.147+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:07:56.164+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.046 seconds
+[2023-12-04T23:08:26.932+0500] {processor.py:157} INFO - Started process (PID=5056) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:26.932+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:08:26.933+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:26.933+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:26.941+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:26.955+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:26.955+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:08:26.962+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:26.962+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:08:26.979+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.050 seconds
+[2023-12-04T23:08:57.133+0500] {processor.py:157} INFO - Started process (PID=5143) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:57.134+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py for tasks to queue
+[2023-12-04T23:08:57.134+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:57.134+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:57.142+0500] {processor.py:839} INFO - DAG(s) dict_keys(['gpstore']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py
+[2023-12-04T23:08:57.158+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:57.158+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T23:08:57.164+0500] {logging_mixin.py:154} INFO - [2023-12-04T23:08:57.163+0500] {dag.py:3722} INFO - Setting next_dagrun for gpstore to None, run_after=None
+[2023-12-04T23:08:57.179+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/gpstore.py took 0.047 seconds
