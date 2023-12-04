@@ -7,6 +7,9 @@ import mlflow
 from mlflow.tracking import MlflowClient
 
 
+os.environ["MLFLOW_REGISTRY_URI"] = "/home/art/gitprj/MLopsXFlow/mlflow/"
+mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_experiment("data_prep_one")
 dataset_path = os.path.join("/home","art","gitprj","MLopsXFlow","datasets") 
 input_file = os.path.join("/home","art","gitprj","MLopsXFlow","datasets","data", "raw", "googleplaystore.csv")
 output_file = os.path.join("/home","art","gitprj","MLopsXFlow","datasets","data", "stage1", "googleplaystore.csv")
@@ -53,8 +56,8 @@ with mlflow.start_run():
 
     df_gps = df_gps.fillna(0)
 
-    mlflow.log_artifact(local_path="/home/art/gitprj/MLopsXFlow/scripts/data_onep.py",
-                        artifact_path="data_onep code")
+    mlflow.log_artifact(local_path="/home/art/gitprj/MLopsXFlow/scripts/data_prep_one.py",
+                        artifact_path="data_prep_one code")
     mlflow.end_run()
 
 df_gps.to_csv(output_file)

@@ -35,7 +35,7 @@ with mlflow.start_run():
     mlflow.sklearn.log_model(tree,
                             artifact_path="lr",
                             registered_model_name="lr")
-    mlflow.log_artifact(local_path="/home/art/gitprj/MLopsXFlow/scripts/data_fifth.py",
+    mlflow.log_artifact(local_path="/home/art/gitprj/MLopsXFlow/scripts/data_train_fifth.py",
                         artifact_path="train_model code")
     mlflow.end_run()
 
