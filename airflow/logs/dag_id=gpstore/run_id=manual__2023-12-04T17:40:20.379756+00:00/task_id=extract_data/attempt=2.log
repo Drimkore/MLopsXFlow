@@ -1,0 +1,23 @@
+[2023-12-04T22:45:27.289+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: gpstore.extract_data manual__2023-12-04T17:40:20.379756+00:00 [queued]>
+[2023-12-04T22:45:27.292+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: gpstore.extract_data manual__2023-12-04T17:40:20.379756+00:00 [queued]>
+[2023-12-04T22:45:27.292+0500] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2023-12-04T22:45:27.307+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): extract_data> on 2023-12-04 17:40:20.379756+00:00
+[2023-12-04T22:45:27.309+0500] {standard_task_runner.py:57} INFO - Started process 3773 to run task
+[2023-12-04T22:45:27.311+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'gpstore', 'extract_data', 'manual__2023-12-04T17:40:20.379756+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/gpstore.py', '--cfg-path', '/tmp/tmp_c72sevj']
+[2023-12-04T22:45:27.312+0500] {standard_task_runner.py:85} INFO - Job 9: Subtask extract_data
+[2023-12-04T22:45:27.342+0500] {task_command.py:416} INFO - Running <TaskInstance: gpstore.extract_data manual__2023-12-04T17:40:20.379756+00:00 [running]> on host xflow
+[2023-12-04T22:45:27.375+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='gpstore' AIRFLOW_CTX_TASK_ID='extract_data' AIRFLOW_CTX_EXECUTION_DATE='2023-12-04T17:40:20.379756+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-04T17:40:20.379756+00:00'
+[2023-12-04T22:45:27.375+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-12-04T22:45:27.376+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'unzip -o -q archive.zip -d ./data/raw/']
+[2023-12-04T22:45:27.380+0500] {subprocess.py:86} INFO - Output:
+[2023-12-04T22:45:27.383+0500] {subprocess.py:93} INFO - unzip:  cannot find or open archive.zip, archive.zip.zip or archive.zip.ZIP.
+[2023-12-04T22:45:27.383+0500] {subprocess.py:97} INFO - Command exited with return code 9
+[2023-12-04T22:45:27.388+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/art/gitprj/MLopsXFlow/flowvenv/lib/python3.11/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 9.
+[2023-12-04T22:45:27.389+0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=gpstore, task_id=extract_data, execution_date=20231204T174020, start_date=20231204T174527, end_date=20231204T174527
+[2023-12-04T22:45:27.402+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 9 for task extract_data (Bash command failed. The command returned a non-zero exit code 9.; 3773)
+[2023-12-04T22:45:27.445+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-12-04T22:45:27.455+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

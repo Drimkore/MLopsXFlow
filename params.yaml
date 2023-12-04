@@ -1,0 +1,7 @@
+split:
+    split_ratio: 0.3
+
+train:
+    max_depth: 5
+    max_features: 19
+    min_samples_leaf: 1

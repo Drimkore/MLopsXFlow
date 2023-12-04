@@ -1,0 +1,18 @@
+[2023-12-04T20:53:33.751+0500] {processor.py:157} INFO - Started process (PID=6401) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:53:33.752+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py for tasks to queue
+[2023-12-04T20:53:33.752+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.752+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:53:33.758+0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:53:33.820+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.820+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-04T20:53:33.832+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.832+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-04T20:53:33.842+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.842+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-04T20:53:33.842+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.842+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T20:53:33.847+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.847+0500] {dag.py:2963} INFO - Creating ORM DAG for hello
+[2023-12-04T20:53:33.853+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:53:33.853+0500] {dag.py:3722} INFO - Setting next_dagrun for hello to 2023-12-04T15:52:00+00:00, run_after=2023-12-04T15:53:00+00:00
+[2023-12-04T20:53:33.875+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py took 0.125 seconds
+[2023-12-04T20:54:04.100+0500] {processor.py:157} INFO - Started process (PID=6437) to work on /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:54:04.100+0500] {processor.py:829} INFO - Processing file /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py for tasks to queue
+[2023-12-04T20:54:04.101+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:54:04.100+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:54:04.107+0500] {processor.py:839} INFO - DAG(s) dict_keys(['hello']) retrieved from /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py
+[2023-12-04T20:54:04.119+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:54:04.119+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-04T20:54:04.130+0500] {logging_mixin.py:154} INFO - [2023-12-04T20:54:04.130+0500] {dag.py:3722} INFO - Setting next_dagrun for hello to 2023-12-04T15:53:00+00:00, run_after=2023-12-04T15:54:00+00:00
+[2023-12-04T20:54:04.145+0500] {processor.py:179} INFO - Processing /home/art/gitprj/MLopsXFlow/airflow/dags/hello.py took 0.047 seconds
